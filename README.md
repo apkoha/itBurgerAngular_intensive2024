@@ -2,6 +2,7 @@
 
 - node -v
 - npm -v
+- - npm -i
 - npm install -g @angular/cli@16
 - Set-ExecutionPolicy RemoteSigned
 - ng new *имя проекта*
